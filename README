@@ -1,0 +1,5 @@
+I wrote this mostly to experiment with Forth. That's the main goal, seconday
+goal would be to use this to solve programming challanges like Advent of Code,
+Project Euler, 99 Prolog problems, and so forth.
+
+Disclaimer: This code doesn't pretend to be pretty, clever, useful or documented.
